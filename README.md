@@ -16,6 +16,8 @@ SO THAT I can organize my thoughts and keep track of tasks I need to complete
 
 * The Github repository link: https://github.com/hengyu89/UCSD_HW11_Note-Taker
 
+* If screenshot doesn't work, here is the video to represent all works: https://www.youtube.com/watch?v=xA0WqRNo62s
+
 ## Usage
 
 * Javascript
